@@ -46,9 +46,9 @@
 
 ============================================
 
-[~] Author  : SAMAR INSIDE 
+[~] Author  : AYUSH INSIDE 
 
-[~] GitHub  : samarinside143
+[~] GitHub  : ayushinside143
 
 [~] Tool  : Automatic WhatsApp Massage Sender
 
@@ -122,7 +122,7 @@
 
             console.log(`${green}Message => ${reset}${fullMessage}`);
 
-            console.log('    [ =============== SAMAR INSIDE =============== ]');
+            console.log('    [ =============== AYUSH INSIDE =============== ]');
 
 
 
@@ -218,7 +218,7 @@
 
             console.log(`${green}Now Start Message Sending.......${reset}`);
 
-            console.log('    [ =============== SAMAR INSIDE KING  =============== ]');
+            console.log('    [ =============== AYUSH INSIDE KING  =============== ]');
 
             console.log('');
 
